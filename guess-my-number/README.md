@@ -15,9 +15,9 @@
 ---
 
 ## 📸 Demo
+![Screenshot 2025-05-02 204148](https://github.com/user-attachments/assets/6a6e6c9e-aa17-4f59-84c7-175a8129c045)
+![Screenshot 2025-05-02 204223](https://github.com/user-attachments/assets/7557c892-e166-4441-889b-fa65395f3309)
 
-stored in [screenshots](./screenshots)
-<!-- Or use an online link if hosted -->
 
 ---
 
