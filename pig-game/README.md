@@ -15,7 +15,14 @@
 
 ## 📸 Demo
 
-stored in [screenshots](./screenshots)
+![Screenshot 2025-05-02 202801](https://github.com/user-attachments/assets/a1c12a55-894c-497b-9586-e736ecdc9953)
+![Screenshot 2025-05-02 203045](https://github.com/user-attachments/assets/8daf4d65-6fba-469f-b8dc-2900867f8cfd)
+![Screenshot 2025-05-02 203247](https://github.com/user-attachments/assets/1f72b831-805d-4724-a114-b6ce87974afa)
+![Screenshot 2025-05-02 203408](https://github.com/user-attachments/assets/897d961d-b252-4e2b-b5e8-87b922285ab0)
+
+
+
+
 <!-- Or use an online link if hosted -->
 
 ---
