@@ -29,12 +29,12 @@ git clone git@github.com:GitSoham02/Projects.git
 cd Projects
 ```
 
-🧠 Motivation
+## 🧠 Motivation
 This repo is a reflection of my journey in web development, backend, and scripting. Each project helped me understand key concepts and improve as a developer.
 
 ---
 
-📫 Contact
+## 📫 Contact
 
 GitHub: GitSoham02
 
