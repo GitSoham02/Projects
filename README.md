@@ -11,7 +11,7 @@ Welcome to my personal collection of small but meaningful projects. This reposit
 
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
-| Bankist app | Banking transaction app having multiple users and functions like Money transfer, loan, borrow ,etc. | HTML, CSS, JS |
+| [Bankist app](./bankist%20-%20bank%20app) | Banking transaction app having multiple users and functions like Money transfer, loan, borrow ,etc. | HTML, CSS, JS |
 | Bankist UI | Landing page containing various DOM elements and operations on them | HTML, CSS, JS |
 | Guess My Number | A game where you guess a number between certain range | HTML, CSS, JS |
 | Pig game | Fun two player dice game   | HTML, CSS, JS |
@@ -35,6 +35,6 @@ This repo is a reflection of my journey in web development, backend, and scripti
 📫 Contact
 GitHub: GitSoham02
 
-LinkedIn: [Do visit](www.linkedin.com/in/soham-jagtap-5781b52a0)
+LinkedIn: www.linkedin.com/in/soham-jagtap-5781b52a0
 
 Email: jsoham672@gmail.com
