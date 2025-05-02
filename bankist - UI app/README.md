@@ -14,8 +14,7 @@
 
 ## 📸 Demo
 
-[video](./videos/video.mp4)
-
+![video (3)](https://github.com/user-attachments/assets/00dd9dfb-f615-47d9-b782-570cb2da13a3)
 
 ---
 
