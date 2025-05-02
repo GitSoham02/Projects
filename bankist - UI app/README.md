@@ -14,7 +14,7 @@
 
 ## 📸 Demo
 
-[video](./videos/video)
+[video](./videos/video.mp4)
 
 
 ---
