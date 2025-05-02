@@ -20,5 +20,5 @@
 
 ```bash
 git clone git@github.com:GitSoham02/Projects.git
-cd Projects/pig-game
+cd Projects/"bankist - UI app"
 
