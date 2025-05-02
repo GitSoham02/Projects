@@ -32,6 +32,8 @@ cd Projects
 🧠 Motivation
 This repo is a reflection of my journey in web development, backend, and scripting. Each project helped me understand key concepts and improve as a developer.
 
+---
+
 📫 Contact
 GitHub: GitSoham02
 
