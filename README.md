@@ -27,3 +27,14 @@ Clone this repository to explore the projects locally:
 ```bash
 git clone git@github.com:GitSoham02/Projects.git
 cd Projects
+```
+
+🧠 Motivation
+This repo is a reflection of my journey in web development, backend, and scripting. Each project helped me understand key concepts and improve as a developer.
+
+📫 Contact
+GitHub: GitSoham02
+
+LinkedIn: www.linkedin.com/in/soham-jagtap-5781b52a0
+
+Email: jsoham672@gmail.com
