@@ -35,6 +35,7 @@ This repo is a reflection of my journey in web development, backend, and scripti
 ---
 
 📫 Contact
+
 GitHub: GitSoham02
 
 LinkedIn: www.linkedin.com/in/soham-jagtap-5781b52a0
