@@ -20,8 +20,7 @@
 
 ## 📸 Demo
 
-[video](./videos/video)
-
+![video (2)](https://github.com/user-attachments/assets/8db80575-47d5-4458-b28b-bfee89d39084)
 
 ---
 
