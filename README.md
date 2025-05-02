@@ -12,9 +12,9 @@ Welcome to my personal collection of small but meaningful projects. This reposit
 | Project Name | Description | Tech Stack |
 |--------------|-------------|------------|
 | [Bankist app](./bankist%20-%20bank%20app) | Banking transaction app having multiple users and functions like Money transfer, loan, borrow ,etc. | HTML, CSS, JS |
-| Bankist UI | Landing page containing various DOM elements and operations on them | HTML, CSS, JS |
-| Guess My Number | A game where you guess a number between certain range | HTML, CSS, JS |
-| Pig game | Fun two player dice game   | HTML, CSS, JS |
+| [Bankist UI](./bankist%20-%20UI5%20app) | Landing page containing various DOM elements and operations on them | HTML, CSS, JS |
+| [Guess My Number](./guess-my-number) | A game where you guess a number between certain range | HTML, CSS, JS |
+| [Pig game](./pig-game) | Fun two player dice game   | HTML, CSS, JS |
 
 > 📁 Each project is organized in its own subfolder with its own README for details.
 
