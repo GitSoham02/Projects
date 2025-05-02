@@ -1,6 +1,6 @@
 # 📌 Pig-game
 
-> Fun two player game of dices. comparing scores and winning after reaching 100 score. 
+> Fun two player game of dices. comparing scores and winning after reaching 100 score. chance is passed to other player whenever dice gives 1. player has to save the collection to score to go ahead. 
 
 ---
 
