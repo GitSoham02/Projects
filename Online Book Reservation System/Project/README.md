@@ -2,6 +2,8 @@
 
 A simple PHP-based web application that allows users to reserve books online from a library-like system. This project demonstrates basic server-side scripting, form handling, and CRUD operations using PHP.
 
+Note: This project is used as practice and to gain basic understanding of PHP.
+
 ---
 
 ## 🚀 Features
