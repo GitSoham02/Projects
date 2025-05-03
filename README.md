@@ -15,6 +15,7 @@ Welcome to my personal collection of small but meaningful projects. This reposit
 | [Bankist UI](./bankist%20-%20UI%20app) | Landing page containing various DOM elements and operations on them | HTML, CSS, JS |
 | [Guess My Number](./guess-my-number) | A game where you guess a number between certain range | HTML, CSS, JS |
 | [Pig game](./pig-game) | Fun two player dice game   | HTML, CSS, JS |
+| [Online Book Reservation System](./online%20book%20reservation%20system) | Practice PHP project | HTML, CSS, PHP |
 
 > 📁 Each project is organized in its own subfolder with its own README for details.
 
